@@ -22,5 +22,5 @@ git add .
 git commit -m "initial commit"
 git push
 
-:: open folder, open index.html
+:: open folder
 %SystemRoot%\explorer.exe "C:\Users\Winchester\Desktop\git\%name%"
